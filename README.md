@@ -16,8 +16,24 @@ The game is developed using the Unity framework and the C# programming language.
 
 The office:
 
+![Screen 1](https://github.com/LouisCaubet/Singularity/blob/main/Screenshots/Screen1.png)
+
 The Innovation Lab:
+
+![](https://github.com/LouisCaubet/Singularity/blob/main/Screenshots/Screen2.png)
+![](https://github.com/LouisCaubet/Singularity/blob/main/Screenshots/Screen3.png)
+![](https://github.com/LouisCaubet/Singularity/blob/main/Screenshots/Screen11.png)
+![](https://github.com/LouisCaubet/Singularity/blob/main/Screenshots/Screen12.png)
+![](https://github.com/LouisCaubet/Singularity/blob/main/Screenshots/Screen14.png)
 
 The Business Division:
 
+![](https://github.com/LouisCaubet/Singularity/blob/main/Screenshots/Screen4.png)
+![](https://github.com/LouisCaubet/Singularity/blob/main/Screenshots/Screen16.png)
+![](https://github.com/LouisCaubet/Singularity/blob/main/Screenshots/Screen17.png)
+
 The World Map:
+
+![](https://github.com/LouisCaubet/Singularity/blob/main/Screenshots/Screen6.png)
+![](https://github.com/LouisCaubet/Singularity/blob/main/Screenshots/Screen9.png)
+![](https://github.com/LouisCaubet/Singularity/blob/main/Screenshots/Screen10.png)
