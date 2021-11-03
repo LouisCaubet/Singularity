@@ -1,0 +1,14 @@
+*.sln
+*.csproj
+
+obj/
+Library/
+ProjectSettings/
+.vs/
+Temp/
+
+Resources/
+
+Supercyan Character Pack Free Sample
+Supercyan Character Pack Free Sample.meta
+
